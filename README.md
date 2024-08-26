@@ -2,7 +2,7 @@
 Software Engineer 
 
 ## Summary
-1-2 sentences summarizing your professional experience and expertise
+I received my PhD from Seoul National University (SNU) under supervision of Prof. Myungjoo Kang. 
 
 ## Skills
 - Programming Languages: Python, C++, etc 
@@ -32,4 +32,6 @@ Job Title
 
 ## Education
 **B.S. in Mathematics** | POSTECH | August 2015
-Courses, activities, or other details
+
+**PhD in Mathematics** | Seoul National University | August 2022
+
