@@ -9,4 +9,11 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-email: ychpark@kias.re.kr # Allow visitors to contact you
+email: 
+
+
+
+links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: ychpark@kias.re.kr
