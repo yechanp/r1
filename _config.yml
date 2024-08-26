@@ -4,7 +4,7 @@ description: Postdoctoral researcher in KIAS.  # Fix hyphenation
 
 show_downloads: false # Fix spelling
 
-theme: jekyll-theme-minimal 
+theme: light #jekyll-theme-minimal 
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
