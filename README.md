@@ -1,11 +1,11 @@
 # Your Name
-Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
+Software Engineer 
 
 ## Summary
 1-2 sentences summarizing your professional experience and expertise
 
 ## Skills
-- Programming Languages: Python, JavaScript, etc 
+- Programming Languages: Python, C++, etc 
 - Web Frameworks: React, Django, etc
 - Databases: MySQL, MongoDB
 - Tools & Methods: Git, Agile, TDD, etc
@@ -31,5 +31,7 @@ Job Title
 - Accomplishment
 
 ## Education
-**Degree** | University Name | Date Graduated
+**B.S. in Mathematics** | POSTECH | August 2015
+**Ph.D in Mathematics** | Seoul National University | August 2022 
+
 Courses, activities, or other details
