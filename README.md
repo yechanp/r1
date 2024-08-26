@@ -31,7 +31,7 @@ Job Title
 - Accomplishment
 
 ## Education
-**B.S. in Mathematics** | POSTECH | August 2015
+**B.S. in Mathematics** | POSTECH | August 2015 | 
 
-**PhD in Mathematics** | Seoul National University | August 2022
+**PhD in Mathematics** | Seoul National University | August 2022 | 
 
