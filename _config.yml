@@ -1,10 +1,8 @@
 title: Yeachan Park  # You can add your name here
 
-logo: 1.png # Use a relative path to logo image 
-
 description: AI Researcher in KIAS - where bytes and botany blend for a better world. # Fix hyphenation 
 
-show_downloads: true # Fix spelling
+show_downloads: false # Fix spelling
 
 theme: jekyll-theme-minimal 
 
