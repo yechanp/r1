@@ -1,5 +1,5 @@
-# Your Name
-Yeachan Park
+# Yeachan Park
+Postdoctoral research fellow
 
 ## Summary
 I received my PhD from Seoul National University (SNU) under supervision of Prof. Myungjoo Kang. 
