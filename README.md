@@ -1,5 +1,5 @@
 # Your Name
-Software Engineer 
+Yeachan Park
 
 ## Summary
 I received my PhD from Seoul National University (SNU) under supervision of Prof. Myungjoo Kang. 
