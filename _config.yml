@@ -1,6 +1,6 @@
 title: Yeachan Park  # You can add your name here
 
-description: AI Researcher in KIAS - where bytes and botany blend for a better world. # Fix hyphenation 
+description: Postdoctoral researcher in KIAS.  # Fix hyphenation 
 
 show_downloads: false # Fix spelling
 
@@ -9,11 +9,10 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
   - jekyll-sitemap
-email: 
+  - jekyll-paginate
 
 
 
-links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: ychpark@kias.re.kr
+social-network-links:
+  email: "ychpark@kias.re.kr"
+  google-scholar: G-EEuLQAAAAJ
