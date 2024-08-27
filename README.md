@@ -2,7 +2,7 @@
 Postdoctoral research fellow
 
 ## Summary
-I received my PhD from Seoul National University (SNU) under supervision of [Prof. Myungjoo Kang](https://www.ncia.snu.ac.kr/general-5-1). 
+I received my PhD from Seoul National University (SNU) under supervision of Prof. [Myungjoo Kang](https://www.ncia.snu.ac.kr/general-5-1). 
 
 ## Research Interests 
 - Theoretical Machine Learning
