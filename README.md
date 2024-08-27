@@ -22,12 +22,11 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 -  MCW-Net: Single image deraining with multi-level connections and wide regional non-local blocks, Signal Processing: Image Communication, 2022.
 
   
-# Preprint
+## Preprint
 
 ## Job Experience
 **Korea Institute for Advanced Study (KIAS)** (Septemper 2022 - present)   
 - AI Research Fellow 
-
 
 
 ## Projects
@@ -39,10 +38,6 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 - Wafer Yield Prediction and Privately Safe Model Research (Samsung Electronics), Mar. 2019 – Aug. 2022.
 - CCTV Visitor Analysis Model (AI Nation), Sep. 2021 – Aug. 2022.
 
-##
-**Project 2** (link)
-- Description 
-- Accomplishment
 
 ## Education
 **B.S. in Mathematics** | POSTECH | Aug. 2015 |
