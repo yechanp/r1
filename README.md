@@ -4,16 +4,24 @@ Postdoctoral research fellow
 ## Summary
 I received my PhD from Seoul National University (SNU) under supervision of Prof. Myungjoo Kang. 
 
+## Research Interests 
+- Theoretical Machine Learning
+- Image Processing
+- Private AI
+- Knowledge Distillation 
+- Floating-point arithmetic
+
 ## Skills
-- Programming Languages: Python, C++, etc 
-- Web Frameworks: React, Django, etc
-- Databases: MySQL, MongoDB
-- Tools & Methods: Git, Agile, TDD, etc
+- Programming Languages: Python, C++, Matlab
+- Machine Learning Frameworks: Pytorch, Tensorflow, Chainer
+- Web Frameworks: FastAPI, React
 
 ## Publications
 -  Expressive Power of ReLU and Step Networks under Floating-Point Operations, Neural Networks, Jul. 2024. 
 -  Self-knowledge distillation via dropout, Computer Vision and Image Understanding, 2023. 
 -  MCW-Net: Single image deraining with multi-level connections and wide regional non-local blocks, Signal Processing: Image Communication, 2022.
+
+  
 # Preprint
 
 ## Experience
@@ -37,7 +45,9 @@ Job Title
 - Accomplishment
 
 ## Education
-- **B.S. in Mathematics** | POSTECH | August 2015 |
+**B.S. in Mathematics** | POSTECH | August 2015 |
+ -Desription
 
-- **PhD in Mathematics** | Seoul National University | August 2022 | 
+**PhD in Mathematics** | Seoul National University | August 2022 | 
+ - Advisor: Myungjoo Kang
 
