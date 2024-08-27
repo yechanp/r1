@@ -2,7 +2,7 @@
 ### Postdoctoral research fellow
 
 ## Summary
-I am a postdoctoral fellow at KIAS. I received my PhD from Seoul National University (SNU) under supervision of Prof. [Myungjoo Kang](https://www.ncia.snu.ac.kr/general-5-1). 
+I am a postdoctoral fellow at KIAS. I received my Ph.D. from Seoul National University (SNU) under the supervision of Prof. [Myungjoo Kang](https://www.ncia.snu.ac.kr/general-5-1). 
 
 I am interested in theoretical machine learning, with a focus on the expressive power of neural networks, the geometry of loss surfaces, and training dynamics. My research interests also extend to practical applications, including low-level vision models, privacy-preserving models, and math-solving models.
 
