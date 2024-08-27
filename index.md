@@ -16,8 +16,7 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 - Machine Learning Frameworks: Pytorch, Tensorflow, Chainer
 - Web Frameworks: FastAPI, React
 
-## Publications
-- (* Equal contribution)
+## Publications (* Equal contribution)
 ###  Expressive Power of ReLU and Step Networks under Floating-Point Operations, Neural Networks, Jul. 2024. 
 - **Yeachan Park***, Geonho Hwang*, Wonyeol Lee, Sejun Park
 ###  Self-knowledge distillation via dropout, Computer Vision and Image Understanding, 2023. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314223001005)
