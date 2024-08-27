@@ -35,8 +35,8 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 #### - _Yeachan Park_, Myungjoo Kang
 
 ## Job Experience
-**Korea Institute for Advanced Study (KIAS)**   
-- AI Research Fellow | Sep. 2022 - present
+### **Korea Institute for Advanced Study (KIAS)**   
+#### - AI Research Fellow | Sep. 2022 - present
 
 
 ## Projects  
