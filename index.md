@@ -6,11 +6,11 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 
 ## Research Interests 
 ### Machine Learning Theory
-#### - Expressive power of neural networks (universal approximation)
-#### - Geometry of Loss surface
-#### - Training Dynamics (Convergence, Grokking, Integrability, etc. )
-#### - Computer Arithmetic (Floating-point arithmetic, Fixed-point arithmetic)
-#### - Knowledge Distillation
+- Expressive power of neural networks (universal approximation)
+- Geometry of Loss surface
+- Training Dynamics (Convergence, Grokking, Integrability, etc. )
+- Computer Arithmetic (Floating-point arithmetic, Fixed-point arithmetic)
+- Knowledge Distillation
   
 ### Low-level Vision
 #### - Single Image Deraining
