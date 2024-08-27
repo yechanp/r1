@@ -46,7 +46,7 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 
 ## Education
 **B.S. in Mathematics** | POSTECH | Aug. 2015 |
- -Desription
+ - Desription
 
 **PhD in Mathematics** | Seoul National University | Aug. 2022 | 
  - Advisor: Myungjoo Kang
