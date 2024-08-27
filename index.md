@@ -5,14 +5,28 @@ Postdoctoral research fellow
 I received my PhD from Seoul National University (SNU) under supervision of Prof. [Myungjoo Kang](https://www.ncia.snu.ac.kr/general-5-1). 
 
 ## Research Interests 
-- Theoretical Machine Learning
-- Image Processing
-- Private AI
+### Machine Learning Theory
+- Expressive power of neural networks (universal approximation)
+- Geometry of Loss surface
+- Training Dynamics (Convergence, Grokking, Integrability, etc. )
+- Computer Arithmetic (Floating-point arithmetic, Fixed-point arithmetic)
 - Knowledge Distillation 
-- Floating-point arithmetic
+### Low-level Vision
+- Single Image Deraining
+### Priviate AI
+- Membership Inference Attacks
+- Differential Privacy
+### AI for Math
+- Autoformalization
+- Automated theorem proving
+- Mathematical Language Model
+### Differential Algebra 
+- Differential Galois Theory
+- Morales–Ramis Theory
+
 
 ## Skills
-- Programming Languages: Python, C++, Matlab
+- Programming Languages: Python, C++, Matlab, Lean
 - Machine Learning Frameworks: Pytorch, Tensorflow, Chainer
 - Web Frameworks: FastAPI, React
 
@@ -46,7 +60,7 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 ### - Construction Site Disaster Prevention System (KCC Engineering & Construction) | Mar. 2019 – Feb. 2020.
 ### - AI-based Emergency Medical System Development (Yonsei University Health System) | Mar. 2019 – Dec. 2021.
 ### - Wafer Yield Prediction and Privately Safe Model Research (Samsung Electronics) | Mar. 2019 – Aug. 2022.
-### - CCTV Visitor Analysis Model (AI Nation) | Sep. 2021 – Aug. 2022. |
+### - CCTV Visitor Analysis Model (AI Nation) | Sep. 2021 – Aug. 2022. 
   
 
 ## Experience 
@@ -58,10 +72,10 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 
 ## Education
 
-**PhD in Mathematics** | Seoul National University | Aug. 2022  
- - Advisor: Myungjoo Kang
+### PhD in Mathematics | Seoul National University | Aug. 2022  
+### - Advisor: Myungjoo Kang
    
-**B.S. in Mathematics** | POSTECH | Aug. 2015 
+## B.S. in Mathematics | POSTECH | Aug. 2015 
 
 
 
