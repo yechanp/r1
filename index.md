@@ -13,20 +13,20 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 - Knowledge Distillation
   
 ### Low-level Vision
-#### - Single Image Deraining
+ - Single Image Deraining
   
 ### Priviate AI
-#### - Membership Inference Attacks
-#### - Differential Privacy
+- Membership Inference Attacks
+- Differential Privacy
   
 ### AI for Math
-#### - Autoformalization
-#### - Automated theorem proving
-#### - Mathematical Language Model
+- Autoformalization
+- Automated theorem proving
+- Mathematical Language Model
   
 ### Differential Algebra 
-#### - Differential Galois Theory
-#### - Morales–Ramis Theory
+- Differential Galois Theory
+- Morales–Ramis Theory
 
 
 ## Skills
@@ -36,21 +36,21 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 
 ## Publications (* Equal contribution)
 ###  Expressive Power of ReLU and Step Networks under Floating-Point Operations, Neural Networks, Jul. 2024. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024002211)
-#### - **_Yeachan Park\*_**, Geonho Hwang\*, Wonyeol Lee, Sejun Park
+#### - **Yeachan Park\***, Geonho Hwang\*, Wonyeol Lee, Sejun Park
 ###  Self-knowledge distillation via dropout, Computer Vision and Image Understanding, 2023. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314223001005)
-#### - Hyoje Lee\*, _Yeachan Park\*_, Hyun Seo\*, Myungjoo Kang 
+#### - Hyoje Lee\*, **Yeachan Park\***, Hyun Seo\*, Myungjoo Kang 
 ###  MCW-Net: Single image deraining with multi-level connections and wide regional non-local blocks, Signal Processing: Image Communication, 2022. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596522000431), [Code](https://github.com/yechanp/MCW-Net)
-#### - _Yeachan Park\*_, Myeongho Jeon\*, Junho Lee\*, Myungjoo Kang
+#### - **Yeachan Park\***, Myeongho Jeon\*, Junho Lee\*, Myungjoo Kang
   
 ## Preprint.
 ### On Expressive Power of Quantized Neural Networks under Fixed-Point Arithmetic, submitted
-#### - Geonho Hwang\*, _Yeachan Park\*_, Sejun Park
+#### - Geonho Hwang\*, **Yeachan Park\*** , Sejun Park
 ### Acceleration of Grokking in Learning Arithmetic Operations via Kolmogorov-Arnold Representation, [Paper](https://arxiv.org/abs/2405.16658), submitted
-#### - _Yeachan Park\*_, Minseok Kim\*, Yeoneung Kim
+#### - **Yeachan Park\*** , Minseok Kim\*, Yeoneung Kim
 ### Absence of Closed-Form Descriptions for Gradient Flow in Two-Layer Narrow Networks, [Paper](https://arxiv.org/abs/2408.08286), submitted
-####  - _Yeachan Park_
+####  - **Yeachan Park**
 ### Membership inference attacks against object detection models, [Paper](https://arxiv.org/abs/2001.04011)
-#### - _Yeachan Park_, Myungjoo Kang
+#### - **Yeachan Park**, Myungjoo Kang
 
 ## Job Experience
 ### **Korea Institute for Advanced Study (KIAS)**   
