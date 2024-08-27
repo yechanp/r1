@@ -1,5 +1,5 @@
 # Yeachan Park
-Postdoctoral research fellow
+### Postdoctoral research fellow
 
 ## Summary
 I received my PhD from Seoul National University (SNU) under supervision of Prof. [Myungjoo Kang](https://www.ncia.snu.ac.kr/general-5-1). 
@@ -10,16 +10,20 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 - Geometry of Loss surface
 - Training Dynamics (Convergence, Grokking, Integrability, etc. )
 - Computer Arithmetic (Floating-point arithmetic, Fixed-point arithmetic)
-- Knowledge Distillation 
+- Knowledge Distillation
+  
 ### Low-level Vision
 - Single Image Deraining
+  
 ### Priviate AI
 - Membership Inference Attacks
 - Differential Privacy
+  
 ### AI for Math
 - Autoformalization
 - Automated theorem proving
 - Mathematical Language Model
+  
 ### Differential Algebra 
 - Differential Galois Theory
 - Morales–Ramis Theory
