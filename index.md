@@ -25,7 +25,15 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 ###  MCW-Net: Single image deraining with multi-level connections and wide regional non-local blocks, Signal Processing: Image Communication, 2022. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596522000431), [Code](https://github.com/yechanp/MCW-Net)
 - **Yeachan Park***, Myeongho Jeon*, Junho Lee*, Myungjoo Kang
   
-## Preprint
+## Preprint.
+### On Expressive Power of Quantized Neural Networks under Fixed-Point Arithmetic, submitted
+- Geonho Hwang*, **Yeachan Park***, Sejun Park
+### Acceleration of Grokking in Learning Arithmetic Operations via Kolmogorov-Arnold Representation, [Paper](https://arxiv.org/abs/2405.16658), submitted
+- **Yeachan Park***, Minseok Kim*, Yeoneung Kim
+### Absence of Closed-Form Descriptions for Gradient Flow in Two-Layer Narrow Networks, [Paper](https://arxiv.org/abs/2408.08286), submitted
+-  **Yeachan Park**
+### Membership inference attacks against object detection models, [Paper](https://arxiv.org/abs/2001.04011)
+- **Yeachan Park**, Myungjoo Kang
 
 ## Job Experience
 **Korea Institute for Advanced Study (KIAS)**   
