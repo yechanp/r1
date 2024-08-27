@@ -6,27 +6,27 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 
 ## Research Interests 
 ### Machine Learning Theory
-- Expressive power of neural networks (universal approximation)
-- Geometry of Loss surface
-- Training Dynamics (Convergence, Grokking, Integrability, etc. )
-- Computer Arithmetic (Floating-point arithmetic, Fixed-point arithmetic)
-- Knowledge Distillation
+#### - Expressive power of neural networks (universal approximation)
+#### - Geometry of Loss surface
+#### - Training Dynamics (Convergence, Grokking, Integrability, etc. )
+#### - Computer Arithmetic (Floating-point arithmetic, Fixed-point arithmetic)
+#### - Knowledge Distillation
   
 ### Low-level Vision
-- Single Image Deraining
+#### - Single Image Deraining
   
 ### Priviate AI
-- Membership Inference Attacks
-- Differential Privacy
+#### - Membership Inference Attacks
+#### - Differential Privacy
   
 ### AI for Math
-- Autoformalization
-- Automated theorem proving
-- Mathematical Language Model
+#### - Autoformalization
+#### - Automated theorem proving
+#### - Mathematical Language Model
   
 ### Differential Algebra 
-- Differential Galois Theory
-- Morales–Ramis Theory
+#### - Differential Galois Theory
+#### - Morales–Ramis Theory
 
 
 ## Skills
