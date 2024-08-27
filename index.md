@@ -26,7 +26,7 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
   
 ### Differential Algebra 
 - Differential Galois Theory
-- Morales–Ramis Theory
+- Morales–Ramis Theory (Integrability theory of dynamical systems)
 
 
 ## Skills
@@ -42,7 +42,7 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 ###  MCW-Net: Single image deraining with multi-level connections and wide regional non-local blocks, Signal Processing: Image Communication, 2022. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596522000431), [Code](https://github.com/yechanp/MCW-Net)
 #### - **Yeachan Park\***, Myeongho Jeon\*, Junho Lee\*, Myungjoo Kang
   
-## Preprint.
+## Preprint
 ### On Expressive Power of Quantized Neural Networks under Fixed-Point Arithmetic, submitted
 #### - Geonho Hwang\*, **Yeachan Park\*** , Sejun Park
 ### Acceleration of Grokking in Learning Arithmetic Operations via Kolmogorov-Arnold Representation, [Paper](https://arxiv.org/abs/2405.16658), submitted
@@ -76,13 +76,13 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 
 ## Education
 
-### PhD in Mathematics | Seoul National University | Aug. 2022  
+### **PhD in Mathematics** | Seoul National University | Aug. 2022  
 ### - Advisor: Myungjoo Kang
    
-## B.S. in Mathematics | POSTECH | Aug. 2015 
+### **B.S. in Mathematics** | POSTECH | Aug. 2015 
 
 
 
 ## PERSONAL CERTIFICATE
-### AWS Solutions Architect – Associate | Jan. 2022
+### **AWS Solutions Architect – Associate** | Jan. 2022
 
