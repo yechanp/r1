@@ -20,7 +20,7 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 -  Expressive Power of ReLU and Step Networks under Floating-Point Operations, Neural Networks, Jul. 2024. 
 -  Self-knowledge distillation via dropout, Computer Vision and Image Understanding, 2023. 
 -  MCW-Net: Single image deraining with multi-level connections and wide regional non-local blocks, Signal Processing: Image Communication, 2022.
-
+**Yeachan Park**, Myeongho Jeon, Junho Lee, Myungjoo Kang
   
 ## Preprint
 
