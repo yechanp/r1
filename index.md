@@ -29,13 +29,7 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 - AI Research Fellow | Sep. 2022 - present
 
 
-## Projects
-<div dir="ltr"> aaa
-<div dir="rtl"> bbb
-
-<div dir="ltr"> ccc
-<div dir="rtl"> ddd
-  
+## Projects  
 - Semiconductor Micro-defect Pattern Detection (SK Hynix) | Mar. 2017 – Dec. 2017.
 - Semiconductor Micro-defect Type Pattern Classification (SK Hynix) | Jan. 2018 – Dec. 2018.
 - Multi-lingual Scene Text Detection and Recognition (NAVER) | Feb. 2019 – Sep. 2019.
