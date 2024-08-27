@@ -57,11 +57,14 @@ I received my PhD from Seoul National University (SNU) under supervision of Prof
 ### Mentor for 3rd Upstage AI Tech Boot camp (Upstage) |  Jan. 2022-Jun. 2022 
 
 ## Education
-**B.S. in Mathematics** | POSTECH | Aug. 2015 
 
 **PhD in Mathematics** | Seoul National University | Aug. 2022  
  - Advisor: Myungjoo Kang
+   
+**B.S. in Mathematics** | POSTECH | Aug. 2015 
+
+
 
 ## PERSONAL CERTIFICATE
-- AWS Solutions Architect – Associate | Jan. 2022
+### AWS Solutions Architect – Associate | Jan. 2022
 
